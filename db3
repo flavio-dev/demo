@@ -1,0 +1,37 @@
+{
+   "gender":"female",
+   "name":{
+      "title":"miss",
+      "first":"juliette",
+      "last":"slawa"
+   },
+   "location":{
+      "street":"2392 wellington st",
+      "city":"chipman",
+      "state":"newfoundland and labrador",
+      "postcode":45414
+   },
+   "email":"juliette.slawa@example.com",
+   "login":{
+      "username":"yellowmouse414",
+      "password":"chucky",
+      "salt":"ABfmVMCs",
+      "md5":"1ad6a46e3931e4badae7df420d3d7b27",
+      "sha1":"a5091f521778b08681914b1e7d91639604b86d06",
+      "sha256":"0db25e67f30d309f0ea8d9b6bd1629e06b3b173b91d96654c3906b47d9b8e72b"
+   },
+   "dob":"1995-02-12 23:41:24",
+   "registered":"2015-06-04 12:12:53",
+   "phone":"970-504-0075",
+   "cell":"073-320-9960",
+   "id":{
+      "name":"",
+      "value":null
+   },
+   "picture":{
+      "large":"https://randomuser.me/api/portraits/women/14.jpg",
+      "medium":"https://randomuser.me/api/portraits/med/women/14.jpg",
+      "thumbnail":"https://randomuser.me/api/portraits/thumb/women/14.jpg"
+   },
+   "nat":"CA"
+}
